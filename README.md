@@ -5,7 +5,7 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lo-jo&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lo-jo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
