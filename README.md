@@ -1,6 +1,6 @@
 ## Hi there 👽
 
-I'm Lorraine !
+I'm Lorraine!
 
 # Stats:
 
